@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #A67A53;
+}
+
+header {
+  height: 10vh;
+  width: 100%;
+  background-color: #D9AC84;
+}
+
+/*# sourceMappingURL=style.css.map */

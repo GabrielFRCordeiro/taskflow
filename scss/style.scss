@@ -1,0 +1,11 @@
+@use "index" as *;
+
+body {
+    background-color: $color-background;
+}
+
+header {
+    height: 10vh;
+    width: 100%;
+    background-color: $color-primary;
+}
